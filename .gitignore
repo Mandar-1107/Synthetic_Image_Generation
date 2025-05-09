@@ -1,0 +1,15 @@
+# Ignore dataset folder
+MURA-v1.1/
+MURA_YOLO/
+.ipynb_checkpoints/
+# Ignore dataset and model checkpoint directories
+autoencoder_reconstructions/
+autoencoder_samples/
+checkpoints-BAGAN-GP-WGAN-GP/
+checkpoints-BAGAN-GP-WGAN-GP_OLD/
+checkpoints-BAGAN-GP-WGAN-GP_Old-2/
+checkpoints-BAGAN/
+checkpoints/
+runs/
+# Ignore model weight files
+*.pt
